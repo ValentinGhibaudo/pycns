@@ -18,7 +18,7 @@ pip install -e .
 Update:
 ```bash
 cd pycns
-git clone pull origin main
+git pull origin main
 ```
 
 ## Example
